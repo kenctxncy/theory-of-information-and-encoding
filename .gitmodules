@@ -1,0 +1,6 @@
+[submodule "entropy_ui"]
+	path = entropy_ui
+	url = git@github.com:kenctxncy/entropy_ui.git
+[submodule "entropy_fx"]
+	path = entropy_fx
+	url = git@github.com:kenctxncy/entropy_fx.git
