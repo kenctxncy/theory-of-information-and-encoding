@@ -128,16 +128,6 @@ git submodule update --remote
 
 # Обновить сабмодули при клонировании
 git clone --recursive <repository-url>
-
-# Перейти в сабмодуль и работать с ним
-cd entropy_fx
-git checkout main
-# ... внести изменения ...
-git commit -am "Update"
-git push
-cd ..
-git add entropy_fx
-git commit -m "Update entropy_fx submodule"
 ```
 
 ## Сборка для Windows
@@ -146,9 +136,9 @@ git commit -m "Update entropy_fx submodule"
 
 ## Лицензия
 
-[Указать лицензию, если есть]
+Genshtab General Public License 1.4
 
 ## Автор
 
-[Ваше имя]
+Аланов А. + Оля
 
