@@ -151,3 +151,4 @@ git commit -m "Update entropy_fx submodule"
 ## Автор
 
 [Ваше имя]
+
